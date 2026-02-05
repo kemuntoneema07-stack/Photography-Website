@@ -21,7 +21,7 @@ Git clone https://github.com/kemuntoneema07-stack/photography-website.git
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git]( https://kemuntoneema07-stack.github.io/photography-website/)
 
 ## Technologies used
 HTML
